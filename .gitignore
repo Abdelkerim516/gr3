@@ -1,4 +1,9 @@
+# Ignorer tous les fichiers HTML
 *.html
+
+# Exception : ne PAS ignorer index2.html
 !index2.html
+
+# Ignorer ces images
 Robbi.jpeg
 steve.jpg
